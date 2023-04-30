@@ -1,3 +1,6 @@
+## Minor Tweeks V1.1.2
+- i fixed it again sorry
+
 ## Minor Tweeks V1.1.1
 - i fixed what i failed sorry
 
