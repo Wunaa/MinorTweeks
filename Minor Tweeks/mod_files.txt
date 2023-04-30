@@ -1,2 +1,3 @@
 add raw/event/scene/ev1140.pac
+delete raw/scene/ev1140.pac
 add mod.ini
