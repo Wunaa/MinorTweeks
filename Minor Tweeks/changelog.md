@@ -1,3 +1,6 @@
+## Minor Tweeks V1.1.1
+- i fixed what i failed sorry
+
 ## Minor Tweeks V1.1
 - Amy flips sonic off in the koko's joy cutscene
 
