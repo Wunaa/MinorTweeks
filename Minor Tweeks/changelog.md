@@ -1,3 +1,7 @@
+## Minor Tweeks V1.1.3
+- added Birthday Support
+- Added Super Sonic
+
 ## Minor Tweeks V1.1.2
 - i fixed it again sorry
 
