@@ -1,3 +1,5 @@
 add raw/event/scene/ev1140.pac
 delete raw/scene/ev1140.pac
+add raw/character/sonic_birthday.pac
+add raw/character/supersonic.pac
 add mod.ini
